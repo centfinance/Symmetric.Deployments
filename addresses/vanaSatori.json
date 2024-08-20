@@ -1,0 +1,81 @@
+{
+  "20210418-authorizer": {
+    "contracts": [
+      {
+        "name": "Authorizer",
+        "address": "0x698fEa3Aa7DBD323D8D896993fD1EC556D308615"
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  "20210418-vault": {
+    "contracts": [
+      {
+        "name": "Vault",
+        "address": "0x4e4131dC27ed9501ac5fEb76F94572fDAe9f0fD0"
+      },
+      {
+        "name": "ProtocolFeesCollector",
+        "address": "0x9fF80825854C8c472B1039725b4C59Aa912DFB96"
+      },
+      {
+        "name": "BalancerHelpers",
+        "address": "0xdd58D43a829067129B8C37f1924D31B1896ac0C6"
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  "20220725-protocol-fee-percentages-provider": {
+    "contracts": [
+      {
+        "name": "ProtocolFeePercentagesProvider",
+        "address": "0xFEF39453770fF2C6b2F453D1b6D075623a79e3Eb"
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  "20230320-weighted-pool-v4": {
+    "contracts": [
+      {
+        "name": "WeightedPoolFactory",
+        "address": "0x5874CB63Fbd1F1A3d1DfCbB451dc35a49Ec63D30"
+      },
+      {
+        "name": "MockWeightedPool",
+        "address": "0x5Ae1C8953eBD6F28C9C4fEbadC116579f6EE7734"
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  "20231031-batch-relayer-v6": {
+    "contracts": [
+      {
+        "name": "BatchRelayerLibrary",
+        "address": "0x266b53bb135f2dbc324b5C5Aa281e84f1C105B26"
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  "20231122-symm-token": {
+    "contracts": [
+      {
+        "name": "SymmToken",
+        "address": "0xbccc4b4c6530F82FE309c5E845E50b5E9C89f2AD"
+      }
+    ],
+    "status": "ACTIVE"
+  },
+  "20240223-composable-stable-pool-v6": {
+    "contracts": [
+      {
+        "name": "ComposableStablePoolFactory",
+        "address": "0xc2eb5c675A49F87843c814FE76576d20e10C3CD0"
+      },
+      {
+        "name": "MockComposableStablePool",
+        "address": "0x70BA5a3B838eeA294B959523fEa2e149C1425eCE"
+      }
+    ],
+    "status": "ACTIVE"
+  }
+}

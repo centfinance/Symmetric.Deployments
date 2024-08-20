@@ -94,4 +94,9 @@ export default {
     BalancerMinter: ZERO_ADDRESS,
     CanCallUserCheckpoint: false,
   },
+  vanaSatori: {
+    wstETH: ZERO_ADDRESS,
+    BalancerMinter: ZERO_ADDRESS,
+    CanCallUserCheckpoint: false,
+  },
 };
